@@ -1,0 +1,19 @@
+body{
+    background-color:pink;
+    padding: 2rem;
+}
+
+p{
+    border: 2px solid red;
+    padding: 10px;
+}
+
+.p1{
+    background-color:  black;
+    color: white;
+}
+
+.p2 {
+    background-color: red;
+    color: black
+}
